@@ -14,12 +14,12 @@
     },
     "NOM_OWNER": {
       "description": "Nom de l'Owner du bot",
-      "value": "Ainz",
+      "value": "★THE BEST★",
       "required": false
     },
     "NUMERO_OWNER": {
       "description": "Numéro WhatsApp de l'Owner (au format international)",
-      "value": "226xxxxxxxx",
+      "value": "243896950303",
       "required": true
     },
     "MODE": {
@@ -29,7 +29,7 @@
     },
     "SESSION_ID": {
       "description": "Identifiant de session",
-      "value": "",
+      "value": "Ovl-MD_mxNgrykp_SESSION-ID",
       "required": true
     },
     "NOM_BOT": {
@@ -39,12 +39,12 @@
     },
     "STICKER_PACK_NAME": {
       "description": "Nom du pack de stickers",
-      "value": "ᴏᴠʟ-ᴍᴅ-ᴠ𝟸",
+      "value": "THE BEST•STICK",
       "required": false
     },
     "STICKER_AUTHOR_NAME": {
       "description": "Auteur du sticker",
-      "value": "ᴀɪɴᴢ🔅✨",
+      "value": "⚠️★THE BEST★⚠️",
       "required": false
     }
   },
