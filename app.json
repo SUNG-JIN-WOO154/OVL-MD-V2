@@ -14,37 +14,37 @@
     },
     "NOM_OWNER": {
       "description": "Nom de l'Owner du bot",
-      "value": "Ainz",
+      "value": "◥꧁𝙳𝙰𝚁𝙺★𝚃𝙴𝙼𝙿𝙴𝚂𝚃꧂◤",
       "required": false
     },
     "NUMERO_OWNER": {
       "description": "Numéro WhatsApp de l'Owner (au format international)",
-      "value": "226xxxxxxxx",
+      "value": "25766486303",
       "required": true
     },
     "MODE": {
       "description": "Mode de fonctionnement du bot (public ou private)",
-      "value": "public",
+      "value": "private",
       "required": false
     },
     "SESSION_ID": {
       "description": "Identifiant de session",
-      "value": "",
+      "value": "Ovl-MD_tIIOwBcr_SESSION-ID",
       "required": true
     },
     "NOM_BOT": {
       "description": "Nom du bot",
-      "value": "🤖 OVL-MD BOT V2",
+      "value": "🤖 TEMPEST-BOT 👾",
       "required": false
     },
     "STICKER_PACK_NAME": {
       "description": "Nom du pack de stickers",
-      "value": "ᴏᴠʟ-ᴍᴅ-ᴠ𝟸",
+      "value": "◥꧁ 𝙳𝙰𝚁𝙺★𝚃𝙴𝙼𝙿𝙴𝚂𝚃 ꧂◤•STICK👾",
       "required": false
     },
     "STICKER_AUTHOR_NAME": {
       "description": "Auteur du sticker",
-      "value": "ᴀɪɴᴢ🔅✨",
+      "value": "✨🕳️𝙳𝙰𝚁𝙺★𝚃𝙴𝙼𝙿𝙴𝚂𝚃🕳️✨",
       "required": false
     }
   },
