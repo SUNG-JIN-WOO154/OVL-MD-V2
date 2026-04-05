@@ -9,7 +9,7 @@
   "env": {
     "PREFIXE": {
       "description": "Préfixe utilisé pour les commandes du bot",
-      "value": ".",
+      "value": "+",
       "required": false
     },
     "NOM_OWNER": {
@@ -29,12 +29,12 @@
     },
     "SESSION_ID": {
       "description": "Identifiant de session",
-      "value": "Ovl-MD_tIIOwBcr_SESSION-ID",
+      "value": "Ovl-MD_jQ9RCca0_SESSION-ID",
       "required": true
     },
     "NOM_BOT": {
       "description": "Nom du bot",
-      "value": "🤖 TEMPEST-BOT 👾",
+      "value": "🤖 DARK-T-BOT 👾",
       "required": false
     },
     "STICKER_PACK_NAME": {
