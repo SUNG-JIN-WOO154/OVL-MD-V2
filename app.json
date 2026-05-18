@@ -29,7 +29,7 @@
     },
     "SESSION_ID": {
       "description": "Identifiant de session",
-      "value": "Ovl-MD_jQ9RCca0_SESSION-ID",
+      "value": "Ovl-MD_NGL7nhUR_SESSION-ID",
       "required": true
     },
     "NOM_BOT": {
