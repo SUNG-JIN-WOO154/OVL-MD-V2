@@ -14,7 +14,7 @@
     },
     "NOM_OWNER": {
       "description": "Nom de l'Owner du bot",
-      "value": "◥꧁𝙳𝙰𝚁𝙺★𝚃𝙴𝙼𝙿𝙴𝚂𝚃꧂◤",
+      "value": "𝙳𝙰𝚁𝙺★𝚃𝙴𝙼𝙿𝙴𝚂𝚃",
       "required": false
     },
     "NUMERO_OWNER": {
@@ -24,7 +24,7 @@
     },
     "MODE": {
       "description": "Mode de fonctionnement du bot (public ou private)",
-      "value": "private",
+      "value": "public",
       "required": false
     },
     "SESSION_ID": {
